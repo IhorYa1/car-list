@@ -1,0 +1,14 @@
+.input-text {
+  margin: 20px 0;
+  padding: 10px;
+  width: 500px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  font-size: 16px;
+}
+
+.input-text:focus {
+  outline: none;
+  border-color: rgb(128, 128, 128);
+  box-shadow: 0 0 5px rgb(128, 128, 128);
+}

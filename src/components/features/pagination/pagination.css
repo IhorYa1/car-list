@@ -1,0 +1,16 @@
+.pagination-wrapper {
+  display: flex;
+  justify-content: space-between;
+  gap: 5px;
+  min-width: 500px;
+  margin-top: 20px;
+}
+
+button {
+  padding: 5px;
+}
+
+.disable-prev,
+.disable-next {
+  visibility: hidden;
+}

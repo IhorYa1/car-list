@@ -1,0 +1,12 @@
+.add-car {
+  border-radius: 5px;
+  font-size: 16px;
+  padding: 10px;
+  background-color: #36304a;
+  color: white;
+}
+
+.add-car:hover {
+  cursor: pointer;
+  opacity: 0.7;
+}
